@@ -1,0 +1,1 @@
+rootProject.name = "ksp-data-mapper"
